@@ -1,5 +1,5 @@
 ## Purpose
-An online schedule manager. 
+Search GitHub API for open project issues by username or language. 
 
 ## Built With
 * HTML
